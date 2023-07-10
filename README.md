@@ -18,8 +18,3 @@
 This project is one of my Tasks for recruitment. 
 I shared with you, if you like it, give me a star
 
----
-### Contact Me
-
- * *[email](devloper.amir.khodamoradi@gmail.com)*
- * *[Linkedin](https://linkedin.com/in/amirhosseinkhodamoradi22222)*
